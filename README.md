@@ -1,6 +1,6 @@
 <h1 align=center>Proxima</h1>
 <p align=center>Proxima is the most intuitive way to prototype Designs</p>
-<h2 align="center"> <a target="_blank" href="https://proxima.netlify.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fproxima.netlify.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
+<h2 align="center"> <a target="_blank" href="https://proxima-landing.netlify.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fproxima-landing.netlify.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
 </h2>
 
 ## 🔑Key Features
